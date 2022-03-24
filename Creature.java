@@ -7,8 +7,4 @@ public class Creature extends GameObject {
         maxStamina = mxStm;
         stamina = mxStm;
     }
-
-    public int Exert(int staminaAmt){
-        
-    }
 }
